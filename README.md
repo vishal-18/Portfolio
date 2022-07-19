@@ -1,36 +1,14 @@
-# Getting Started with Create React App
+# Personal Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## You can also check
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Hashnode](https://vishalyadav.hashnode.dev/)
+- [Medium](https://medium.com/@imyadavvishal)
+- [Tripoto](https://www.tripoto.com/profile/imvishal)
 
 
-## Learn More
+We can connect on:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![LinkedIn](https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520 "LinkedIn")](https://www.linkedin.com/in/imvishalyadav/) &nbsp; &nbsp; [![Twitter](https://about.twitter.com/etc/designs/about2-twitter/public/img/favicon.ico "Twitter")](https://www.instagram.com/__vishal18/) &nbsp; &nbsp;   [![Instagram](https://static.cdninstagram.com/rsrc.php/yS/r/f_5NUHW7AZC.ico "Instagram")](https://www.instagram.com/__vishal18/)
 
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
