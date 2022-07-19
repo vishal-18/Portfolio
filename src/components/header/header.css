@@ -1,0 +1,92 @@
+header {
+  height: 100vh;
+  padding-top: 32px;
+  overflow: hidden;
+}
+
+.header__container {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+/*=============CTA===========*/
+.cta {
+  margin-top: 8px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+/*==================HEADER SOCIAL==================*/
+.header_socials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  position: absolute;
+  left: 0;
+  bottom: 8px;
+}
+
+.header_socials::after {
+  content: '';
+  width: 1px;
+  height: 2rem;
+  background: var(--color-primary);
+}
+.header__social-icons{
+  font-size: 1.3rem;
+}
+/*===============ME=======*/
+.me {
+  background: linear-gradient(var(--color-primary), transparent);
+  width: 352px;
+  height: 480px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 64px;
+  border-radius: 192px 192px 0 0;
+  overflow: hidden;
+  padding: 80px 24px 24px 24px;
+}
+
+/*=======SCROLL DOWN========*/
+.scroll__down {
+  position: absolute;
+  right: -16px;
+  bottom: 40px;
+  transform: rotate(90deg);
+  font-weight: 300;
+  font-size: 12px;
+}
+
+/*=========== MEDIA QUERIES (MEDIUM DEVICES)========*/
+@media screen and (max-width: 1024px) {
+  header {
+    height: 68vh;
+  }
+}
+/*=========== MEDIA QUERIES (SMALL DEVICES)========*/
+@media screen and (max-width: 600px) {
+  header {
+    height: 100vh;
+  }
+  .scroll__down {
+    display: none;
+  }
+  .header_socials{
+    flex-direction: row;
+    justify-content: center;
+    gap:24px;
+    margin-top:24px;
+    position: relative;
+    bottom: 0;
+  }
+  .header_socials img{
+    margin-bottom: 10px;
+  }
+  .me{
+    margin-top: 28px;
+  }
+}
